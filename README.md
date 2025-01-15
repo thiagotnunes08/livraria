@@ -19,7 +19,7 @@ Comece clonando o projeto para sua máquina local:
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
-
+---
 ## 2. Configure a API Key
 
 Você precisará informar sua chave da OpenAI para consumir os modelos de IA.
