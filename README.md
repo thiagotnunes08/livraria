@@ -16,6 +16,7 @@ Para começar, siga os passos abaixo:
    Você precisará informar sua chave da OpenAI para consumir os modelos de IA. Abra o arquivo src/main/resources/application.properties e adicione:
    ```bash
    spring.ai.openai.api-key=OPENAI-API-KEY
+   
    Alternativamente, configure a chave de API como uma variável de ambiente:
     ```bash
    export OPENAI_API_KEY=YOUR_API_KEY
