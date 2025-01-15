@@ -6,20 +6,9 @@ Certifique-se de atender aos seguintes requisitos antes de iniciar: **Java 23 ou
 
 Para começar, siga os passos abaixo:  
 
-1. **Clone o Repositório**  
+ **Clone o Repositório**  
    Comece clonando o projeto para sua máquina local:  
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
-   
-2. **Configure a API KEY**
-   Você precisará informar sua chave da OpenAI para consumir os modelos de IA. Abra o arquivo src/main/resources/application.properties e adicione:
-   ```bash
-   spring.ai.openai.api-key=OPENAI-API-KEY
-   
-   Alternativamente, configure a chave de API como uma variável de ambiente:
-    ```bash
-   export OPENAI_API_KEY=YOUR_API_KEY
-
-
+   cd seu-repositorio and run! 
 
