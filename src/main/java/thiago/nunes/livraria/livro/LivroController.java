@@ -18,7 +18,7 @@ public class LivroController {
 
         return chatClient
                 .prompt()
-                .user("messi")
+                .user("me recomende um livro essencial para aprender java!")
                 .call()
                 .entity(RecomendacaoDto.class);
     }

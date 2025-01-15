@@ -1,9 +1,12 @@
 package thiago.nunes.livraria.livro;
 
 public record RecomendacaoDto(
-        String nome,
-        String time,
-        String nacionalidade,
-        String melhorPe
+       String autor,
+       String genero,
+       Integer quantidadePaginas,
+       Integer anoPublicacao,
+       String titulo,
+       String resumo,
+       String isbn
 ) {
 }
